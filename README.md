@@ -84,7 +84,8 @@ Perfect for level designers who need to quickly arrange objects in structured or
 
 ## 📸 Preview 
 
-<img width="2554" height="1389" alt="image" src="https://github.com/user-attachments/assets/b0d6c00d-7637-4fc2-a9d6-035b52d77fcd" />
+<img width="2554" height="1387" alt="image" src="https://github.com/user-attachments/assets/5eacac4d-4006-45a1-a366-cad5cbfdc0ea" />
+
 
 
 ---
